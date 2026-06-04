@@ -1,0 +1,58 @@
+{
+  "account": {
+    "username": "nymph.abaya_",
+    "display_name": "𝐍𝐲𝐦𝐩𝐡 𝐀𝐛𝐚𝐲𝐚 🧜🏻‍♀️🪄",
+    "instagram_url": "https://www.instagram.com/nymph.abaya_/",
+    "bio": "كل عباية نحكي فيها قصة أنوثة ورُقي\n𝐀𝐃𝐄𝐍📍",
+    "country": "Yemen",
+    "city": "Aden",
+    "niche": "Modest Fashion / Abayas & Burqu",
+    "has_website": false,
+    "phone": null,
+    "email": null,
+    "website": null,
+    "followers": 7944,
+    "following": 4,
+    "posts_count": 22,
+    "currency": "SAR"
+  },
+  "brand_identity": {
+    "brand_name_ar": "نيمف عباية",
+    "brand_name_en": "Nymph Abaya",
+    "tagline_ar": "كل عباية نحكي فيها قصة أنوثة ورُقي",
+    "tagline_en": "Every abaya tells a story of femininity and elegance",
+    "origin": "عدن - Aden, Yemen",
+    "serves_market": "السعودية ودول الخليج (بالريال السعودي)",
+    "symbol": "🧜🏻‍♀️🪄 (حورية الماء والعصا السحرية)",
+    "tone_of_voice": "أنثوي، حالِم، راقٍ، يستخدم لهجة خليجية/عدنية",
+    "color_palette_inspiration": [
+      {"name": "أسود فاخر", "hex": "#0B0B0B", "use": "الخلفية الأساسية والعبايات الكلاسيكية"},
+      {"name": "ذهبي وردي حالِم", "hex": "#D4A5A5", "use": "التفاصيل ولمسات اللون الأنثوي"},
+      {"name": "وردي دافئ", "hex": "#E8B4B8", "use": "الخلفيات النسائية الناعمة"},
+      {"name": "بنفسجي حالِم", "hex": "#6B4E71", "use": "لمسات لونية عميقة"},
+      {"name": "بيج كريمي", "hex": "#F5E6D3", "use": "الخلفيات الفاتحة والإطلالات الصيفية"},
+      {"name": "أبيض نقي", "hex": "#FFFFFF", "use": "النصوص والخلفيات المتباينة"}
+    ]
+  },
+  "ordering": {
+    "primary_method": "DM عبر إنستقرام (الطريقة الأساسية المذكورة في الكابشنز)",
+    "secondary_methods": ["واتساب (الرقم غير مذكور في السيرة)"],
+    "payment_methods": ["تحويل بنكي", "كاش عند الاستلام"],
+    "delivery": "توصيل داخل السعودية ودول الخليج (الأسعار بالريال السعودي)",
+    "shipping_time": "غير محدد بدقة، يعتمد على شركة الشحن"
+  },
+  "social_links": {
+    "instagram": "https://www.instagram.com/nymph.abaya_/",
+    "tiktok": null,
+    "snapchat": null,
+    "twitter": null,
+    "whatsapp": null
+  },
+  "hashtags_observed": [
+    "#عدن",
+    "#عبايات",
+    "#nymph",
+    "#عباية",
+    "#abaya"
+  ]
+}

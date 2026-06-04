@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": "p-burqu",
+      "title_ar": "براقع NYMPH",
+      "title_en": "NYMPH Burqu (Face Veil)",
+      "category_id": "burqu",
+      "image": "images/posts/burqu-nymph.jpg",
+      "price_sar": null,
+      "old_price_sar": null,
+      "tag_ar": "منتج مميز",
+      "fabric_ar": "قماش ناعم مزخرف",
+      "description_ar": "براقع NYMPH يحلي العيون ومرتب بشكل. براقع نسائية أنيقة تضيف لمسة سحرية لإطلالتك.",
+      "caption_ar": "براقع NYMPH يحلي العيون ومرتب بشكل .",
+      "likes": 117,
+      "is_special": true
+    },
+    {
+      "id": "p-abaya-160",
+      "title_ar": "عباية بقصة بشت",
+      "title_en": "Bisht-Cut Abaya",
+      "category_id": "bisht",
+      "image": "images/posts/abaya-bisht-160.jpg",
+      "price_sar": 160,
+      "old_price_sar": null,
+      "tag_ar": "قصّة مميزة",
+      "fabric_ar": "قماش فاخر",
+      "description_ar": "عباية بقصة بشت أنيقة، تصميم يمنحك حضوراً مميزاً وراقياً.",
+      "caption_ar": "عباية بقصة بشت\nالسعر 160ريال🇸🇦",
+      "likes": 169,
+      "sizes": ["متوفر بقياسات متعددة"]
+    },
+    {
+      "id": "p-abaya-150",
+      "title_ar": "عباية أنيقة جداً",
+      "title_en": "Very Elegant Abaya",
+      "category_id": "classic",
+      "image": "images/posts/post-11.jpg",
+      "price_sar": 150,
+      "old_price_sar": null,
+      "tag_ar": "الأكثر أناقة",
+      "fabric_ar": "قماش فاخر مريح",
+      "description_ar": "عباية جميله وأنيقه جداً، مثالية للمناسبات الخاصة والاستخدام اليومي المميز.",
+      "caption_ar": "عباية جميله وأنيقه جداً.\n150ريال🇸🇦",
+      "likes": 122,
+      "sizes": ["متوفر بقياسات متعددة"]
+    },
+    {
+      "id": "p-abaya-130",
+      "title_ar": "عباية عملية وأنيقة",
+      "title_en": "Practical & Elegant Abaya",
+      "category_id": "practical",
+      "image": "images/posts/abaya-130.jpg",
+      "price_sar": 130,
+      "old_price_sar": null,
+      "tag_ar": "يومية",
+      "fabric_ar": "قماش عملي مريح",
+      "description_ar": "عباية عملية وأنيقة، مثالية للارتداء اليومي مع لمسة من الرُقي.",
+      "caption_ar": "عباية عملية وأنيقه\nالسعر 130ريال🇸🇦",
+      "likes": 237,
+      "sizes": ["متوفر بقياسات متعددة"]
+    },
+    {
+      "id": "p-abaya-popular",
+      "title_ar": "عباية NYMPH الكلاسيكية",
+      "title_en": "NYMPH Classic Abaya",
+      "category_id": "classic",
+      "image": "images/posts/post-10.jpg",
+      "price_sar": null,
+      "old_price_sar": null,
+      "tag_ar": "الأكثر إعجاباً",
+      "fabric_ar": "قماش فاخر",
+      "description_ar": "تصميم كلاسيكي من NYMPH، من أكثر العبايات إعجاباً لدى عميلاتنا.",
+      "caption_ar": "",
+      "likes": 687,
+      "sizes": ["متوفر بقياسات متعددة"]
+    },
+    {
+      "id": "p-abaya-featured",
+      "title_ar": "عباية NYMPH الفاخرة",
+      "title_en": "NYMPH Luxury Abaya",
+      "category_id": "luxury",
+      "image": "images/posts/post-05.jpg",
+      "price_sar": null,
+      "old_price_sar": null,
+      "tag_ar": "إصدار خاص",
+      "fabric_ar": "أفخم الأقمشة",
+      "description_ar": "إصدار خاص من NYMPH بتصميم فاخر يليق بكل مناسبة.",
+      "caption_ar": "",
+      "likes": 210,
+      "sizes": ["متوفر بقياسات متعددة"]
+    }
+  ],
+  "categories": [
+    {
+      "id": "burqu",
+      "name_ar": "براقع NYMPH",
+      "name_en": "NYMPH Burqu",
+      "description_ar": "براقع نسائية مميزة تضيف سحراً لإطلالتك",
+      "image": "images/posts/burqu-nymph.jpg"
+    },
+    {
+      "id": "bisht",
+      "name_ar": "عبايات بقصة بشت",
+      "name_en": "Bisht-Cut Abayas",
+      "description_ar": "عبايات بقصة البشت الأنيقة لإطلالة مميزة",
+      "image": "images/posts/abaya-bisht-160.jpg"
+    },
+    {
+      "id": "classic",
+      "name_ar": "عبايات كلاسيكية",
+      "name_en": "Classic Abayas",
+      "description_ar": "تصاميم كلاسيكية أنيقة تناسب جميع الأذواق",
+      "image": "images/posts/post-11.jpg"
+    },
+    {
+      "id": "practical",
+      "name_ar": "عبايات عملية",
+      "name_en": "Practical Abayas",
+      "description_ar": "عبايات عملية وأنيقة للارتداء اليومي",
+      "image": "images/posts/abaya-130.jpg"
+    }
+  ],
+  "reel_posts": [
+    {
+      "id": "reel-001",
+      "title_ar": "إطلالة NYMPH السحرية",
+      "image": "images/posts/reel-01.jpg",
+      "likes": 4690,
+      "comments": 66,
+      "caption": "#عدن #عبايات #nymph #عباية #abaya"
+    },
+    {
+      "id": "reel-002",
+      "title_ar": "تشكيلة NYMPH الجديدة",
+      "image": "images/posts/reel-02.jpg",
+      "likes": 313,
+      "comments": 25,
+      "caption": ""
+    }
+  ],
+  "price_range": {
+    "min_sar": 130,
+    "max_sar": 160,
+    "currency": "SAR"
+  }
+}

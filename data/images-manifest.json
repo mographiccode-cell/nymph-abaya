@@ -1,0 +1,129 @@
+{
+  "manifest_version": "2.0",
+  "generated_for": "nymph.abaya_",
+  "image_source_policy": "تم تنزيل جميع الصور من مكتبة Picnob.com (واجهة بديلة لـ Instagram) من حساب nymph.abaya_ الفعلي. الصور مصدرها Instagram CDN، تم تحميلها من cache Picnob.",
+  "images": [
+    {
+      "file_name": "reel-01.jpg",
+      "path": "images/posts/reel-01.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/705440924_17896356741459721_8689328062877773371_n.jpg",
+      "type": "reel_cover",
+      "caption_or_note": "ريل - #عدن #عبايات #nymph - 4,690 إعجاب، 66 تعليق",
+      "relevance_score": 10,
+      "suggested_section": "hero_or_gallery",
+      "real_data": {"likes": 4690, "comments": 66, "age": "10 days"}
+    },
+    {
+      "file_name": "reel-02.jpg",
+      "path": "images/posts/reel-02.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/7060635419_17896356171459721_5359559918550992678_n.jpg",
+      "type": "reel_cover",
+      "caption_or_note": "ريل - 313 إعجاب، 25 تعليق",
+      "relevance_score": 9,
+      "suggested_section": "gallery",
+      "real_data": {"likes": 313, "comments": 25, "age": "10 days"}
+    },
+    {
+      "file_name": "burqu-nymph.jpg",
+      "path": "images/posts/burqu-nymph.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/705729501_17896198128459721_38421109113286333384_n.jpg",
+      "type": "product",
+      "caption_or_note": "براقع NYMPH يحلي العيون ومرتب بشكل",
+      "relevance_score": 10,
+      "suggested_section": "products",
+      "real_data": {"likes": 117, "comments": 16, "age": "10 days", "is_special": true}
+    },
+    {
+      "file_name": "post-05.jpg",
+      "path": "images/posts/post-05.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/706155140_17896197609459721_66836647569002999443_n.jpg",
+      "type": "post",
+      "caption_or_note": "منشور NYMPH - 210 إعجاب، 11 تعليق",
+      "relevance_score": 8,
+      "suggested_section": "gallery",
+      "real_data": {"likes": 210, "comments": 11, "age": "11 days"}
+    },
+    {
+      "file_name": "abaya-130.jpg",
+      "path": "images/posts/abaya-130.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/7066559653_17896197405459721_12108711029460193857_n.jpg",
+      "type": "product",
+      "caption_or_note": "عباية عملية وأنيقه - السعر 130 ريال 🇸🇦",
+      "relevance_score": 10,
+      "suggested_section": "products",
+      "real_data": {"likes": 237, "comments": 0, "age": "11 days", "price_sar": 130}
+    },
+    {
+      "file_name": "post-07.jpg",
+      "path": "images/posts/post-07.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/706277430_17896140075459721_7077278008770460722_n.jpg",
+      "type": "post",
+      "caption_or_note": "منشور NYMPH - 120 إعجاب، 0 تعليق",
+      "relevance_score": 7,
+      "suggested_section": "gallery",
+      "real_data": {"likes": 120, "comments": 0, "age": "11 days"}
+    },
+    {
+      "file_name": "abaya-bisht-160.jpg",
+      "path": "images/posts/abaya-bisht-160.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/704327579_17896139949459721_8706129389301112709_n.jpg",
+      "type": "product",
+      "caption_or_note": "عباية بقصة بشت - السعر 160 ريال 🇸🇦",
+      "relevance_score": 10,
+      "suggested_section": "products",
+      "real_data": {"likes": 169, "comments": 11, "age": "11 days", "price_sar": 160}
+    },
+    {
+      "file_name": "post-09.jpg",
+      "path": "images/posts/post-09.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/705567744_17896139865459721_5069617355703057422_n.jpg",
+      "type": "post",
+      "caption_or_note": "منشور NYMPH - 277 إعجاب، 15 تعليق",
+      "relevance_score": 8,
+      "suggested_section": "gallery",
+      "real_data": {"likes": 277, "comments": 15, "age": "11 days"}
+    },
+    {
+      "file_name": "post-10.jpg",
+      "path": "images/posts/post-10.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/706198360_17896139838459721_31915732189323222253_n.jpg",
+      "type": "post",
+      "caption_or_note": "منشور NYMPH - 687 إعجاب، 20 تعليق (الأعلى تفاعلاً)",
+      "relevance_score": 10,
+      "suggested_section": "hero_or_products",
+      "real_data": {"likes": 687, "comments": 20, "age": "11 days"}
+    },
+    {
+      "file_name": "post-11.jpg",
+      "path": "images/posts/post-11.jpg",
+      "original_source": "https://scontent-ord5-1.cdninstagram.com/v/t51.8278-15/705482072_17896139568459721_6357794581698568082_n.jpg",
+      "type": "product",
+      "caption_or_note": "عباية جميله وأنيقه جداً - 150 ريال 🇸🇦",
+      "relevance_score": 10,
+      "suggested_section": "products",
+      "real_data": {"likes": 122, "comments": 0, "age": "11 days", "price_sar": 150}
+    },
+    {
+      "file_name": "profile-pic.jpg",
+      "path": "images/profile/profile-pic.jpg",
+      "original_source": "https://sp1.picnob.com/a/a_73837467720_155556621774286028552818_fe98ae94e86fb586068ad018a9f16aff.jpg",
+      "type": "profile",
+      "caption_or_note": "الصورة الرمزية لحساب nymph.abaya_ (حجم 150x150 فقط متاح)",
+      "relevance_score": 10,
+      "suggested_section": "nav",
+      "size_limitation": "حجم 150x150 فقط متاح من Picnob. الحجم الكامل محجوب من Instagram CDN."
+    }
+  ],
+  "summary": {
+    "total_images": 11,
+    "by_type": {
+      "reel_cover": 2,
+      "product": 4,
+      "post": 4,
+      "profile": 1
+    },
+    "all_local_paths_valid": true,
+    "all_images_are_from_real_account": true,
+    "data_source": "Picnob cache of Instagram account @nymph.abaya_"
+  }
+}
